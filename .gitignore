@@ -1,0 +1,7 @@
+archive (1)/
+sample_nifti_data/
+__pycache__/
+*.keras
+*.h5
+uploads/
+Brain Model/
